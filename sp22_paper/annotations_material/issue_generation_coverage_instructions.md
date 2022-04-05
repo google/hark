@@ -20,18 +20,10 @@ Which of the following statements best describes each label set?
 
 \<Label Set-1: label-1, label-2, label-3\>
 
-<ul>
-
-<input id="1" type="radio"> Label set covers the main topics mentioned in the
-review. 
-
-<input id="2" type="radio"> Label set contains keywords from the review, but
-does not capture any main topics.
-
-<input id="2" type="radio"> Label set is not related to any main topics in the
-review.
-
-</ul>
+- Label set covers the main topics mentioned in the review. 
+- Label set contains keywords from the review, but does not capture any main
+topics.
+- Label set is not related to any main topics in the review.
 
 
 \<Label Set-2: label-3, label-4, label-5\>

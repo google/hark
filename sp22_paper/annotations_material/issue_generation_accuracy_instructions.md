@@ -20,16 +20,10 @@ Which of the following statements best describes each label?
 
 \<Label-1\>
 
-<ul>
+- The topic is discussed in the review
+- Contains keywords present in the review, but is not a topic
+- Unrelated to the review
 
-<input id="1" type="radio"> The topic is discussed in the review
-
-<input id="2" type="radio"> Contains keywords present in the review, but is not
-a topic
-
-<input id="2" type="radio"> Unrelated to the review
-
-</ul>
 
 
 \<Label-2\>

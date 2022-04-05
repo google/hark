@@ -21,17 +21,10 @@ labels above?
 
 \<Title-1\>
 
-<ul>
-
-<input id="1" type="radio"> Title **covers** the vast majority of the labels.
-
-<input id="2" type="radio"> Title **misses** the vast majority of the labels.
-
-<input id="2" type="radio">Title is **unrelated** or **misrepresents** the
+- Title **covers** the vast majority of the labels.
+- Title **misses** the vast majority of the labels.
+- Title is **unrelated** or **misrepresents** the
 labels.
-
-</ul>
-
 
 \<Title-2\>
 
