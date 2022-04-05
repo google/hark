@@ -1,4 +1,4 @@
-# Hark
+# Hark: A Deep Learning System for Navigating Privacy Feedback at Scale
 
 This is the supporting repository for the following IEEE Security and Privacy
 2022 paper:
