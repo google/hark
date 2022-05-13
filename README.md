@@ -4,7 +4,7 @@ This is the supporting repository for the following IEEE Security and Privacy
 2022 paper:
 
 > Hamza Harkous, Sai Teja Peddinti, Rishabh Khandelwal, Animesh Srivastava, Nina
-> Taft. "Hark: A Deep Learning System for Navigating Privacy Feedback at Scale"
+> Taft. "[Hark: A Deep Learning System for Navigating Privacy Feedback at Scale](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1CIO8duve24/pdf)"
 > In 2022 IEEE Symposium on Security and Privacy (SP), 2022.
 
 *This is not an officially supported Google product.*
